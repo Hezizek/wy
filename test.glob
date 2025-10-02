@@ -1,0 +1,38 @@
+DIGEST 71e7f870694d0dafd3cc37c581f72060
+Ftest
+def 11:25 <> excluded_middle
+binder 37:37 <> p:1
+R46:49 Corelib.Init.Logic <> ::type_scope:x_'\/'_x not
+R45:45 test <> p:1 var
+R50:50 Corelib.Init.Logic <> ::type_scope:'~'_x not
+R51:51 test <> p:1 var
+def 65:70 <> pierce
+binder 83:83 <> p:2
+binder 85:85 <> q:3
+R94:94 Corelib.Init.Logic <> ::type_scope:x_'->'_x not
+R104:106 Corelib.Init.Logic <> ::type_scope:x_'->'_x not
+R95:95 Corelib.Init.Logic <> ::type_scope:x_'->'_x not
+R100:102 Corelib.Init.Logic <> ::type_scope:x_'->'_x not
+R97:98 Corelib.Init.Logic <> ::type_scope:x_'->'_x not
+R96:96 test <> p:2 var
+R99:99 test <> q:3 var
+R103:103 test <> p:2 var
+R107:107 test <> p:2 var
+prf 119:121 <> eqv
+R139:141 Corelib.Init.Logic <> ::type_scope:x_'<->'_x not
+R124:138 test <> excluded_middle def
+R142:147 test <> pierce def
+R164:178 test <> excluded_middle def
+R180:185 test <> pierce def
+R337:338 Corelib.Init.Logic <> ::type_scope:'~'_x not
+R344:344 Corelib.Init.Logic <> ::type_scope:'~'_x not
+R340:341 Corelib.Init.Logic <> ::type_scope:x_'\/'_x not
+R342:342 Corelib.Init.Logic <> ::type_scope:'~'_x not
+R337:338 Corelib.Init.Logic <> ::type_scope:'~'_x not
+R344:344 Corelib.Init.Logic <> ::type_scope:'~'_x not
+R340:341 Corelib.Init.Logic <> ::type_scope:x_'\/'_x not
+R342:342 Corelib.Init.Logic <> ::type_scope:'~'_x not
+R371:372 Corelib.Init.Logic <> ::type_scope:x_'\/'_x not
+R373:373 Corelib.Init.Logic <> ::type_scope:'~'_x not
+R371:372 Corelib.Init.Logic <> ::type_scope:x_'\/'_x not
+R373:373 Corelib.Init.Logic <> ::type_scope:'~'_x not
